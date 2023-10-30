@@ -11,4 +11,4 @@ The objective of this project is to create a Maven Archetype based Spring MVC pr
 - Implementation of the Maven Archetype based Spring MVC Project.
 - Configuration of DispatcherServlet and database connectivity using XML files.
 - Usage of JSP as the view template engine.
-- Implementation of CRUD operations on an
+- Implementation of CRUD operations
